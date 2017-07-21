@@ -4,6 +4,6 @@ This artwork was created for the Ubuntu MATE project by:
   * [Ivan Pejić](https://github.com/nadrimajstor)
   * [Martin Wimpress](https://ubuntu-mate.org)
 
-All the artowrk in is made available under the Attribution-ShareAlike 4.0 International ([CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/)) 
+All the artwork in is made available under the Attribution-ShareAlike 4.0 International ([CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/)) 
 
   * <http://creativecommons.org/licenses/by-sa/4.0/legalcode>
