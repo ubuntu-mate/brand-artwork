@@ -1,3 +1,5 @@
+# Brand Artwork
+
 This artwork was created for the Ubuntu MATE project by:
 
   * [Sam Hewitt](http://snwh.org/)
@@ -7,3 +9,5 @@ This artwork was created for the Ubuntu MATE project by:
 All the artwork in is made available under the Attribution-ShareAlike 4.0 International ([CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/)) 
 
   * <http://creativecommons.org/licenses/by-sa/4.0/legalcode>
+
+For usage of the Ubuntu MATE logo, please see the [logo guidelines](https://ubuntu-mate.org/logo-guidelines).
